@@ -1,5 +1,7 @@
 Marp
 ===
+**Pre-release version of Marp with small fixes for myself**
+(Instead of cloning, I have decided to copy the code, because the original Marp may be prone to an unnoticed deletion.)
 
 **Markdown presentation writer, powered by [Electron](http://electron.atom.io/).**
 
